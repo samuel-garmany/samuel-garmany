@@ -1,84 +1,74 @@
-:root {
-    --sky-color: #87CEEB;
-    --mountain-color: #4A6363;
-}
-
 body {
     margin: 0;
-    padding: 0;
     overflow-x: hidden;
 }
 
 .parallax-container {
-    position: relative;
     height: 100vh;
     overflow-y: auto;
     overflow-x: hidden;
     perspective: 10px;
 }
 
-.hero-section {
+.title-section {
     position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--sky-color);
+    background-color: #87CEEB;
     z-index: 1;
 }
 
 .main-title {
     font-size: 5rem;
     color: white;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 }
 
 .mountains {
     position: fixed;
     bottom: 0;
+    left: 0;
     width: 100%;
     height: 40vh;
-    background: var(--mountain-color);
-    clip-path: polygon(0 45%, 15% 25%, 30% 45%, 50% 15%, 70% 35%, 85% 25%, 100% 45%, 100% 100%, 0 100%);
+    background: linear-gradient(#4B6455 0%, #4B6455 60%, #35453C 100%);
+    clip-path: polygon(0 45%, 100% 25%, 100% 100%, 0% 100%);
     z-index: 2;
 }
 
-.content-section {
+.content {
     position: relative;
     margin-top: 100vh;
-    background-color: var(--mountain-color);
-    color: white;
+    background-color: #35453C;
     z-index: 3;
-    min-height: 100vh;
+    color: white;
+    padding: 2rem 0;
+}
+
+.content-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 .footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #2A362F;
     padding: 1rem 0;
-    z-index: 4;
-    transform: translateY(100%);
-    transition: transform 0.3s ease;
-}
-
-.footer.visible {
-    transform: translateY(0);
-}
-
-.social-links {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
+    color: white;
+    text-align: center;
 }
 
 .social-links a {
     color: white;
     text-decoration: none;
+    margin: 0 1rem;
+    transition: opacity 0.3s;
 }
 
 .social-links a:hover {
-    color: var(--sky-color);
+    opacity: 0.7;
 }
