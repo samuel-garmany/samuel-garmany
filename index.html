@@ -1,14 +1,131 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #667eea;
+            --mountain-bg: #增长 transparent;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: linear-gradient(to bottom, var(--primary-color), var(--mountain-bg));
+            min-height: 100vh;
+        }
+
+        .fixed-logo {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: white;
+            font-family: 'Arial', sans-serif;
+            transition: all 0.5s ease;
+        }
+
+        .logo-text {
+            font-size: 2rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Mountain effect */
+        #mountain-cover {
+            position: fixed;
+            top: -100%;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom, var(--primary-color), var(--mountain-bg));
+            transition: all 0.5s ease;
+        }
+
+        /* Content area */
+        .content-area {
+            position: fixed;
+            top: -100%;
+            left: 0;
+            width: 100%;
+            min-height: calc(100vh - 80px);
+            background: var(--mountain-bg);
+            transition: all 0.5s ease;
+        }
+
+        .content {
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .mountains {
+            position: fixed;
+            top: 100%;
+            right: -100%;
+            width: 300px;
+            height: 150px;
+            background: repeating-linear-gradient(45deg, transparent 20%, rgba(66, 76, 108, 0.9) 25%, transparent 50%);
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--primary-color);
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .nav-link {
+            color: white !important;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+    </style>
 </head>
 
 <body>
-    <h1>Hello, world!</h1>
+    <div class="container">
+        <!-- Mountains -->
+        <div class="mountains"></div>
+
+        <!-- Fixed logo -->
+        <div class="fixed-logo">
+            <div class="logo-text">John Doe</div>
+            <div class="nav-link"><a href="#content">Home</a></div>
+            <div class="nav-link"><a href="#about">About</a></div>
+            <div class="nav-link"><a href="#contact">Contact</a></div>
+        </div>
+
+        <!-- Content -->
+        <div class="content-area">
+            <section class="content" id="content">
+                <h1>John Doe's Website</h1>
+                <p>This is a sample content area with some example text. Lorem ipsum dolor sit amet, consectetur
+                    adipiscing elit.</p>
+                <button href="#" class="mountain-btn">Read more</button>
+            </section>
+
+            <!-- More content sections can be added here -->
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+
 </body>
 
 </html>
