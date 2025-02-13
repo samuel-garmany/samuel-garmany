@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.parallax-container {
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    perspective: 10px;
+}
+
+.hero-section {
+    position: relative;
+    height: 100vh;
+    transform-style: preserve-3d;
+    z-index: 1;
+}
+
+.sky {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, #87CEEB, #B0E0E6);
+    transform: translateZ(-10px) scale(2);
+}
+
+.mountains {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    transform: translateZ(-5px) scale(1.5);
+}
+
+.mountains svg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.name-title {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.content-section {
+    position: relative;
+    background: #2F4F4F;
+    min-height: 100vh;
+    color: white;
+    z-index: 2;
+}
