@@ -5,8 +5,8 @@ I'm a Mollecular Cellular Developmental Biology and Computer Science Student at 
 
 - 📫 How to reach me:
   - [**Email**](mailto:samuel-garmany@colorado.edu)
-  - [**LinkedIn**](www.linkedin.com/in/samuel-garmany)
-  - [**Strava**](www.strava.com/athletes/86847912)
+  - [**LinkedIn**](https://www.linkedin.com/in/samuel-garmany)
+  - [**Strava**](https://www.strava.com/athletes/86847912)
 - 📄 You can find my **Resume** in the [**Releases Tab**](https://github.com/samuel-garmany/samuel-garmany/releases) of this repository.
 
 <!--
