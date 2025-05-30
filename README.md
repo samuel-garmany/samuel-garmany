@@ -7,7 +7,7 @@ I'm a Mollecular Cellular Developmental Biology and Computer Science Student at 
   - [**Email**](mailto:samuel-garmany@colorado.edu)
   - [**LinkedIn**](https://www.linkedin.com/in/samuel-garmany)
   - [**Strava**](https://www.strava.com/athletes/86847912)
-- 📄 You can find my **Resume** in the [**Releases Tab**](https://github.com/samuel-garmany/samuel-garmany/releases) of this repository.
+- 📄 You can find my **Resume** in the [**Releases Tab**](https://github.com/samuel-garmany/resume/releases) of the resume repository.
 
 <!--
 **samuel-garmany/samuel-garmany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
