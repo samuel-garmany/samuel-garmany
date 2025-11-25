@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hey there 👋
 
-I'm a Mollecular Cellular Developmental Biology and Computer Science Student at the University of Colorado Boulder (Sko Buffs)
+🧬 Molecular, Cellular, and Developmental Biology | 💻 Computer Science  
+Student at the University of Colorado Boulder (Sko Buffs!)
 
 
 - 📫 How to reach me:
-  - [**Email**](mailto:samuel-garmany@colorado.edu)
-  - [**LinkedIn**](https://www.linkedin.com/in/samuel-garmany)
-  - [**Strava**](https://www.strava.com/athletes/86847912)
-- 📄 You can find my **Resume** in the [**Releases Tab**](https://github.com/samuel-garmany/resume/releases) of the resume repository.
+  - [LinkedIn](https://www.linkedin.com/in/samuel-garmany)
+  - [Strava](https://www.strava.com/athletes/86847912)
+- 📄 View latest Resume in [Releases](https://github.com/samuel-garmany/resume/releases) of the resume repository.
 
 <!--
 **samuel-garmany/samuel-garmany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
