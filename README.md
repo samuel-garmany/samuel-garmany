@@ -7,7 +7,7 @@ Student at the University of Colorado Boulder (Sko Buffs!)
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/samuel-garmany)
   - [Strava](https://www.strava.com/athletes/86847912)
-- 📄 View latest Resume in [Releases](https://github.com/samuel-garmany/resume/releases) of the resume repository.
+- 📄 View latest Resume in [Releases](https://github.com/samuel-garmany/resume/releases).
 
 <!--
 **samuel-garmany/samuel-garmany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
