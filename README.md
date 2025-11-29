@@ -1,7 +1,7 @@
 ## Hey there, I'm Sam 👋
 
 **🧬 Molecular, Cellular, and Developmental Biology | 💻 Computer Science**  
-Student at the University of Colorado Boulder (Sko Buffs!)
+🦬 Student at the University of Colorado Boulder (Sko Buffs!)
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader&logoColor=white)](https://samuel-garmany.github.io/resume/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-gray?logo=gmail&logoColor=white)](mailto:samuel.garmany@colorado.edu)
