@@ -4,7 +4,7 @@
 🦬 Student at the University of Colorado Boulder (Sko Buffs!)
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader&logoColor=white)](https://samuel-garmany.github.io/resume/resume.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-2ea44f?logo=github&logoColor=white)](https://garmany.me)
+[![Website](https://img.shields.io/badge/Portfolio-Personal_Site-2ea44f?logo=github&logoColor=white)](https://garmany.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-garmany)
 [![Strava](https://img.shields.io/badge/Strava-Follow-orange?logo=strava&logoColor=white)](https://www.strava.com/athletes/86847912)
 
