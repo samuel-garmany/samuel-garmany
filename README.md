@@ -1,4 +1,4 @@
-## Hey there, I'm Sam 👋
+## Hello! I'm Sam 👋
 
 **🧬 Molecular, Cellular, and Developmental Biology | 💻 Computer Science**  
 🦬 Student at the University of Colorado Boulder (Sko Buffs!)
