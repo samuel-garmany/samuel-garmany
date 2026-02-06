@@ -7,8 +7,7 @@
 [![Contact](https://img.shields.io/badge/Contact-Me-9945FF?logo=minutemailer&logoColor=white)](https://garmany.me/#contact)
 [![Website](https://img.shields.io/badge/Website-Visit-2ea44f?logo=firefox-browser&logoColor=white)](https://garmany.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-garmany)
-[![Strava](https://img.shields.io/badge/Strava-Follow-orange?logo=strava&logoColor=white)](https://www.strava.com/athletes/86847912)
-
+[![Strava](https://img.shields.io/badge/Strava-Follow-orange?logo=strava&logoColor=white)](https://www.strava.com/athletes/samuel-garmany)
 ## 🔧 Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/)
