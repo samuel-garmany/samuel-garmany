@@ -6,7 +6,6 @@
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader&logoColor=white)](https://samuel-garmany.github.io/resume/resume.pdf)
 [![Contact](https://img.shields.io/badge/Contact-Me-9945FF?logo=minutemailer&logoColor=white)](https://garmany.me/#contact)
 [![Website](https://img.shields.io/badge/Website-Visit-2ea44f?logo=firefox-browser&logoColor=white)](https://garmany.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-garmany)
 [![Strava](https://img.shields.io/badge/Strava-Follow-orange?logo=strava&logoColor=white)](https://www.strava.com/athletes/samuel-garmany)
 ## 🔧 Skills
 
