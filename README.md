@@ -1,4 +1,4 @@
-## Hello! I'm Sam 👋
+## Hello! I'm Sam.
 
 **🧬 Molecular, Cellular, and Developmental Biology | 💻 Computer Science**  
 🦬 Student at the University of Colorado Boulder (Sko Buffs!)
@@ -7,7 +7,7 @@
 [![Contact](https://img.shields.io/badge/Contact-Me-9945FF?logo=minutemailer&logoColor=white)](https://garmany.me/#contact)
 [![Website](https://img.shields.io/badge/Website-Visit-2ea44f?logo=firefox-browser&logoColor=white)](https://garmany.me)
 [![Strava](https://img.shields.io/badge/Strava-Follow-orange?logo=strava&logoColor=white)](https://www.strava.com/athletes/samuel-garmany)
-## 🔧 Skills
+## Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
@@ -33,7 +33,7 @@
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/)
 
-## 📈 My Stats
+## Stats
 
 [![](https://raw.githubusercontent.com/samuel-garmany/samuel-garmany/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/samuel-garmany/samuel-garmany/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/samuel-garmany/samuel-garmany/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
