@@ -24,6 +24,6 @@ jobs:
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: -7
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
-          EXCLUDE: "TeX,HTML,Handlebars,Nix,Lua" # TeX doesn't feel relevant here, HTML/Handlebars is overrepresented from some weirdness with a class project, and Nix/Lua are config languages.
+          #EXCLUDE: "TeX,HTML,Handlebars,Nix,Lua" # TeX doesn't feel relevant here, HTML/Handlebars is overrepresented from some weirdness with a class project, and Nix/Lua are config languages.
           # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
           #AUTO_PUSH: true
