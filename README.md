@@ -20,6 +20,4 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?style=for-the-badge&logo=latex&logoColor=fff)](https://www.latex-project.org/)
 
-## Stats
-
 [![Profile details](https://raw.githubusercontent.com/samuel-garmany/samuel-garmany/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
