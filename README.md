@@ -1,8 +1,8 @@
 # Hello! I'm Sam.
 
-**🧬 Molecular, Cellular, and Developmental Biology | 💻 Computer Science**  
-🦬 Student at the University of Colorado Boulder (Sko Buffs!)  
-🌐 [garmany.me](https://garmany.me)
+**Molecular, Cellular, and Developmental Biology | Computer Science**  
+Student at the University of Colorado Boulder  
+[garmany.me](https://garmany.me)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)](https://numpy.org/)
