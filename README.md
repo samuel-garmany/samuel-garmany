@@ -1,4 +1,4 @@
-# Hello! I'm Sam.
+# Hello World!
 
 **Molecular, Cellular, and Developmental Biology | Computer Science**  
 Student at the University of Colorado Boulder  
